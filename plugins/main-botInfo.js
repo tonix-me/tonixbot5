@@ -71,10 +71,6 @@ let infobt = `
 *≡  NodeJS memory *
 ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}
 `
-conn.sendButton(m.chat, infobt, igfg, null, [
-  ['ꨄ︎ donate', `${usedPrefix}donate`],
-   ['⌬ Groups', `${usedPrefix}gpguru`]
- ], m)
 
 }
 handler.help = ['info']
