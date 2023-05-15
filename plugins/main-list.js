@@ -1,6 +1,6 @@
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems })  => m.reply(`
 ┏━━━━━━━━━━━━━━━━┓
-┃  *<All menu />*
+┃  *<𝐓𝚶𝚴𝐈𝐗 ⃝𝚩𝚯𝐓⛥ />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
 ┣  💟 groups
 ┣  💟 infobot
@@ -13,7 +13,6 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isP
 ┣  💟 readqr
 ┣  💟 weather
 ┣  💟 nowa
-┣  💟 hornycard
 ┣  💟 simpcard
 ┣  💟 ytcomment
 ┣  💟 whatmusic
