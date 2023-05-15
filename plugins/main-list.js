@@ -1,4 +1,5 @@
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems })  => m.reply(`
+let img= 'https://i.ibb.co/QYLp1vX/icon.jpg'
 ┏━━━━━━━━━━━━━━━━┓
 ┃  *<𝐓𝚶𝚴𝐈𝐗 ⃝𝚩𝚯𝐓⛥ />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
